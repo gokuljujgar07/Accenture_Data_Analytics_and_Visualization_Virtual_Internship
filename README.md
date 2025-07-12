@@ -87,5 +87,3 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
- ## Certificate:
-[Certificate of Completion](https://github.com/gokuljujgar07/Accenture_Data_Analytics_and_Visualization_Virtual_Internship/blob/main/Data%20Analytics%20completion_certificate%20by%20accenture.pdf)
