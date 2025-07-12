@@ -53,7 +53,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 
 ## Task - 2
  - Often you won’t need all these datasets to find what you’re looking for.
- - So, the first step is to use this [data model](#) to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
+ - So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
  >- Reaction Score(score is used to quantified the popularity)
  >- Content ID
@@ -82,11 +82,11 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20Internship%20PowerPoint%20presentation%20-%20Task%203%20By%20Minhaj.pptx)
+ - Powerpoint Presentation : [PPT](https://github.com/gokuljujgar07/Accenture_Data_Analytics_and_Visualization_Virtual_Internship/blob/main/Accenture%20Internship%20PPT%20-%20Task%203%20By%20Gokul.pptx)
  
  ## Task - 4
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
  ## Certificate:
-[Certificate of Completion](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Internship_completion_certificate_Shaikh_Minhaj.pdf)
+[Certificate of Completion](https://github.com/gokuljujgar07/Accenture_Data_Analytics_and_Visualization_Virtual_Internship/blob/main/Data%20Analytics%20completion_certificate%20by%20accenture.pdf)
