@@ -82,8 +82,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT](https://github.com/gokuljujgar07/Accenture_Data_Analytics_and_Visualization_Virtual_Internship/blob/main/Accenture%20Internship%20PPT%20%20By%20Gokul.pptx)
- 
+
  ## Task - 4
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
